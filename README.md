@@ -12,6 +12,17 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=synthwave)
 
 
+## Reach Me Out
+
+<p align="center">
+  <a href="https://facebook.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 # Technology Stack
 
 Some technologies that I know
