@@ -14,11 +14,11 @@
 
 ## Reach Me Out
 
-<p align="center">
-  <a href="https://facebook.com/yourusername" target="_blank">
+<p align="center" style="margin-top: 20px;">
+  <a href="https://web.facebook.com/zihad.hasan.549668" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/zihad-hasan-75449018b/" target="_blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
